@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vazduh koji udišemo</string>
+    <string name="action_settings">Reference</string>
+    <string name="bordeaux_message">Opasno \n\nZdravstveno upozorenje: Svi mogu imati ozbiljnijih zdravstvenih problema \n\nPažnja: Svi bi trebalo da izbegavaju sve napore na otvorenom</string>
+    <string name="enter_name">Unesite ime grada ili države</string>
+    <string name="green_message">Dobro \n\nZdravstveno upozorenje: Kvaliteta vazduha smatra se zadovoljavajućim, a zagađenje vazduha predstavlja mali ili nikakav rizik \n\nPažnja: Nema</string>
+    <string name="no_data">Podaci nisu nađeni!</string>
+    <string name="no_value">nema vrednost</string>
+    <string name="orange_message">Nezdravo za osjetljive grupe \n\nZdravstveno upozorenje: Pripadnici osjetljivih grupa mogu imati zdravstvenih poteškoća. Verovatno neće uticati na većinu ljudi. \n\nPažnja: Aktivna deca i odrasli, kao i ljudi s respiratornim bolestima, poput astme, trebalo bi da ograniče dugotrajan napor na otvorenom.</string>
+    <string name="red_message">Nezdravo \n\nZdravstveno upozorenje: Svi mogu imati zdravstvenih tegoba; pripadnici osetljivih grupa mogu imati ozbiljnijih zdravstvenih tegoba \n\nPažnja: Aktivna deca i odrasli ljudi s respiratornim bolestima, poput astme, trebalo bi da izbegavaju dugotrajne napore na otvorenom; svi ostali, a posebno deca, trebalo bi da ograniče dugotrajan napor na otvorenom</string>
+    <string name="violet_message">Vrlo nezdravo \n\n Zdravstveno upozorenje: Zdravstveno upozorenje za vanrednu situaciju. Velika je verovatnoća da će uticati na čitavo stanovništvo. \n\nPažnja: Aktivna deca i odrasli ljudi s respiratornim bolestima, poput astme, trebalo bi da izbegavaju sve napore na otvorenom; svi ostali, posebno deca, trebalo bi da ograniče napore na otvorenom.</string>
+    <string name="yellow_message">Umereno \n\nZdravstveno upozorenje: Kvalitet vazduha je prihvatljiv, međutim, postoji umerena zdravstvena briga za vrlo mali broj ljudi koji su veoma osjetljivi na zagađenje vazduha. \n\nPažnja: Aktivna deca i odrasli, kao i ljudi s respiratornim bolestima, poput astme, trebali bi da ograniče dugotrajan napor na otvorenom.</string>
+    <string name="search">Traži</string>
+    <string name="close">Zatvori</string>
+    <string name="details">Detalji</string>
+    <string name="connection_error">Problem sa internet konekcijom</string>
+</resources>

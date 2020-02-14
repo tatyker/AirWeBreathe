@@ -1,0 +1,17 @@
+<resources>
+    <string name="action_settings">Credits</string>
+    <string name="no_value">no value</string>
+    <string name="green_message">Good \n\nHealth Implications \nAir quality is considered satisfactory, and air pollution poses little or no risk \n \nCautionary Statement \nNone </string>
+    <string name="yellow_message">Moderate \n\nHealth Implications \nAir quality is acceptable; however, for some pollutants there may be a moderate health concern for a very small number of people who are unusually sensitive to air pollution.\n \nCautionary Statement \nActive children and adults, and people with respiratory disease, such as asthma, should limit prolonged outdoor exertion.</string>
+    <string name="orange_message">Unhealthy for Sensitive Groups \n\nHealth Implications \nMembers of sensitive groups may experience health effects. The general public is not likely to be affected. \n \nCautionary Statement \nActive children and adults, and people with respiratory disease, such as asthma, should limit prolonged outdoor exertion.</string>
+    <string name="red_message">Unhealthy \n\nHealth Implications \nEveryone may begin to experience health effects; members of sensitive groups may experience more serious health effects \n \nCautionary Statement \nActive children and adults, and people with respiratory disease, such as asthma, should avoid prolonged outdoor exertion; everyone else, especially children, should limit prolonged outdoor exertion.</string>
+    <string name="violet_message">Very Unhealthy \n\nHealth Implications \nHealth warnings of emergency conditions. The entire population is more likely to be affected. \n \nCautionary Statement \nActive children and adults, and people with respiratory disease, such as asthma, should avoid all outdoor exertion; everyone else, especially children, should limit outdoor exertion.</string>
+    <string name="bordeaux_message">Hazardous \n\nHealth Implications \nHealth alert: everyone may experience more serious health effects \n \nCautionary Statement \nEveryone should avoid all outdoor exertion</string>
+    <string name="enter_name">Enter the name of the city or the country</string>
+    <string name="no_data">Data haven\'t been found!</string>
+    <string name="app_name">The Air We Breathe</string>
+    <string name="search">Search</string>
+    <string name="close">Close</string>
+    <string name="details">Details</string>
+    <string name="connection_error">Problem with connection</string>
+</resources>
